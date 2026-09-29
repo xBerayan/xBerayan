@@ -58,7 +58,7 @@
 
 <td width="62%" valign="top">
 
-<h2>Hey, I'm <span style="color:#ff003c;">Berayan</span>.</h2>
+<h2>Hey, I'm <span style="color:#ff003c;">Berayan</span></h2>
 
 <p>
 I build practical softwares, automation systems, AI-powered tools, bots, and experiments that turn ideas into working products
@@ -169,10 +169,10 @@ I care about clean execution, fast iteration, useful interfaces, and systems tha
 <!-- Replace YOUR_USERNAME below -->
 
 <img height="165"
-     src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=ff003c&icon_color=ff003c&text_color=ffffff" />
+     src="https://github-readme-stats.vercel.app/api?username=xberayan&show_icons=true&hide_border=true&bg_color=000000&title_color=ff003c&icon_color=ff003c&text_color=ffffff" />
 
 <img height="165"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=ff003c&text_color=ffffff" />
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=xberayan&layout=compact&hide_border=true&bg_color=000000&title_color=ff003c&text_color=ffffff" />
 
 </div>
 
@@ -183,11 +183,11 @@ I care about clean execution, fast iteration, useful interfaces, and systems tha
 ## `// CONNECT`
 
 <a href="https://x.com/0xBerayan">
-  <img src="https://img.shields.io/badge/X-@YOUR_X_USERNAME-111111?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-@0xberayan-111111?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://t.me/itsBerayan">
-  <img src="https://img.shields.io/badge/Telegram-@YOUR_TELEGRAM-111111?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-@itsBerayan-111111?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <a href="mailto:0xberayan@gmail.com">
@@ -196,7 +196,7 @@ I care about clean execution, fast iteration, useful interfaces, and systems tha
 
 <br/><br/>
 
-<code>BUILD // WATCH // LEARN // BUILD // REPEAT</code>
+<code>WATCH // LEARN // BUILD // REPEAT</code>
 
 </div>
 
