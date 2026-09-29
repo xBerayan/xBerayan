@@ -6,12 +6,12 @@
 
 <h1>
   <span style="color:#ff003c;">&lt;</span>
-  YOUR_NAME
+  Berayan
   <span style="color:#ff003c;">/&gt;</span>
 </h1>
 
 <p>
-  <b>Developer • Builder • Automation • AI • Web3</b>
+  <b>Builder • Automation • AI • Web3</b>
 </p>
 
 <p>
@@ -40,16 +40,16 @@
 <h3>◉ PROFILE</h3>
 
 <p>
-  <code>YOUR_USERNAME</code><br/>
+  <code>Berayan</code><br/>
   Developer / Builder<br/>
   Somewhere on the internet
 </p>
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/xberayan">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://x.com/YOUR_X_USERNAME">
+  <a href="https://x.com/0xberayan">
     <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
@@ -58,14 +58,14 @@
 
 <td width="62%" valign="top">
 
-<h2>Hey, I'm <span style="color:#ff003c;">YOUR_NAME</span>.</h2>
+<h2>Hey, I'm <span style="color:#ff003c;">YOUR_NAMEpkllllllllll</span>.</h2>
 
 <p>
-I build practical software, automation systems, AI-powered tools, bots, and experiments that turn ideas into working products.
+I build practical softwares, automation systems, AI-powered tools, bots, and experiments that turn ideas into working products
 </p>
 
 <p>
-I care about clean execution, fast iteration, useful interfaces, and systems that actually solve problems.
+I care about clean execution, fast iteration, useful interfaces, and systems that actually solve problems!
 </p>
 
 <br/>
@@ -75,7 +75,7 @@ I care about clean execution, fast iteration, useful interfaces, and systems tha
 <ul>
   <li>Building AI agents and automation workflows</li>
   <li>Working with APIs, bots, backend systems, and Web3 tooling</li>
-  <li>Experimenting with autonomous software and developer tooling</li>
+  <li>Obsessed with Pi Agent 🖤</li>
 </ul>
 
 <h3>▸ STACK</h3>
@@ -114,7 +114,7 @@ I care about clean execution, fast iteration, useful interfaces, and systems tha
 
 ### 🔴 PROJECT_01
 
-**Short one-line description of your project.**
+**Short one-line description of your project**
 
 `Python` `Automation` `API`
 
@@ -182,21 +182,21 @@ I care about clean execution, fast iteration, useful interfaces, and systems tha
 
 ## `// CONNECT`
 
-<a href="https://x.com/YOUR_X_USERNAME">
+<a href="https://x.com/0xBerayan">
   <img src="https://img.shields.io/badge/X-@YOUR_X_USERNAME-111111?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM">
+<a href="https://t.me/itsBerayan">
   <img src="https://img.shields.io/badge/Telegram-@YOUR_TELEGRAM-111111?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:0xberayan@gmail.com">
   <img src="https://img.shields.io/badge/Email-CONTACT-ff003c?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<code>BUILD // BREAK // LEARN // REPEAT</code>
+<code>BUILD // WATCH // LEARN // BUILD // REPEAT</code>
 
 </div>
 
