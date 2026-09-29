@@ -114,22 +114,22 @@ I care about clean execution, fast iteration, useful interfaces, and systems tha
 
 ### 🔴 PROJECT_01
 
-**Short one-line description of your project**
+**REDACTED**
 
 `Python` `Automation` `API`
 
-[Repository →](https://github.com/YOUR_USERNAME/PROJECT_01)
+[Repository →](REDACTED)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚪ PROJECT_02
 
-**Short one-line description of your project.**
+**REDACTED**
 
 `TypeScript` `Node.js` `AI`
 
-[Repository →](https://github.com/YOUR_USERNAME/PROJECT_02)
+[Repository →](REDACTED)
 
 </td>
 </tr>
@@ -139,22 +139,22 @@ I care about clean execution, fast iteration, useful interfaces, and systems tha
 
 ### ⚪ PROJECT_03
 
-**Short one-line description of your project.**
+**REDACTED**
 
 `Bot` `Web3` `Backend`
 
-[Repository →](https://github.com/YOUR_USERNAME/PROJECT_03)
+[Repository →](REDACTED)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔴 PROJECT_04
 
-**Short one-line description of your project.**
+**REDACTED**
 
 `Agent` `Tools` `Infra`
 
-[Repository →](https://github.com/YOUR_USERNAME/PROJECT_04)
+[Repository →](REDACTED)
 
 </td>
 </tr>
