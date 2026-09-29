@@ -37,7 +37,7 @@
 
 <br/>
 
-<h3>◉ PROFILE</h3>
+<h3>⭕PROFILE⭕</h3>
 
 <p>
   <code>Berayan</code><br/>
@@ -58,7 +58,7 @@
 
 <td width="62%" valign="top">
 
-<h2>Hey, I'm <span style="color:#ff003c;">YOUR_NAMEpkllllllllll</span>.</h2>
+<h2>Hey, I'm <span style="color:#ff003c;">Berayan</span>.</h2>
 
 <p>
 I build practical softwares, automation systems, AI-powered tools, bots, and experiments that turn ideas into working products
